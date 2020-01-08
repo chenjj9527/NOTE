@@ -1,0 +1,4 @@
+music	@singername唱的歌是什么
+music	@singername有啥歌曲听
+navigation	去@Place怎么走
+
